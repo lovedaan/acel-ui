@@ -2,7 +2,7 @@
   "name": "acel-ui",
   "description": "基于vue的组件库",
   "main": "dist/acel-ui.js",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "author": "https://github.com/lovedaan",
   "repository": "https://github.com/lovedaan/acel-ui.git",
   "license": "MIT",
